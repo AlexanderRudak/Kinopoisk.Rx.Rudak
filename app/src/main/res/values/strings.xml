@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kinopoisk</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_film">Кинопоиск</string>
+
+    <string name="action_sort_name">Сортировать по названию</string>
+    <string name="action_sort_rating">Сортировать по рейтингу</string>
+
+    <string name="label_city">Город</string>
+    <string name="label_date">Дата</string>
+    <string name="label_genre">Жанр</string>
+    <string name="label_director">Директоры: </string>
+    <string name="label_actor">Актеры: </string>
+
+    <string name="title_activity_film_detail">FilmDetailActivity</string>
+    <string name="title_activity_film_seance">Сеансы</string>
+    <string name="title_activity_cinema_maps">Map</string>
+
+
+    <string name="title_map_dialog">На карте</string>
+    <string name="title_city_dialog">Город</string>
+    <string name="title_genre_dialog">Жанр</string>
+
+</resources>

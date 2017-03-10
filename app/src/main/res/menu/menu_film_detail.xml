@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.startandroid.rudak.activity.ScrollingActivity">
+
+    <item
+        android:id="@+id/action_seance"
+        android:icon="@drawable/seance"
+        android:title="12345"
+        app:showAsAction="ifRoom"/>
+
+</menu>

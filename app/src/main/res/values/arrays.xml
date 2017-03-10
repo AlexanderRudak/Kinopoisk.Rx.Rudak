@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="city" >
+        <item>13|Астрахань</item>
+        <item>495|Великий Новгород</item>
+        <item>460|Владивосток</item>
+        <item>3|Волгоград</item>
+        <item>9|Воронеж</item>
+        <item>449|Екатеринбург</item>
+        <item>456|Иркутск</item>
+        <item>430|Казань</item>
+        <item>490|Калининград</item>
+        <item>431|Краснодар</item>
+        <item>470|Красноярск</item>
+        <item>491|Мурманск</item>
+        <item>5|Нижний Новгород</item>
+        <item>452|Новосибирск</item>
+        <item>462|Омск</item>
+        <item>432|Пермь</item>
+    </string-array>
+    <string-array name="genre" >
+        <item>0|Все жанры</item>
+        <item>1|Боевик</item>
+        <item>2|Детектив</item>
+        <item>3|Драма</item>
+        <item>4|Комедия</item>
+        <item>5|Криминал</item>
+        <item>6|Мелодрама</item>
+        <item>7|Мультфильм</item>
+        <item>8|Мюзикл</item>
+        <item>9|Приключения</item>
+        <item>10|Триллер</item>
+        <item>11|Ужасы</item>
+        <item>12|Фантастика</item>
+        <item>13|Фэнтези</item>
+     </string-array>
+
+</resources>
